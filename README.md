@@ -59,7 +59,7 @@ Raciocínio:
     3. Para cada grupo:
         ◦ Considerar apenas o Total Value
         
-    4. Comparar os totais:
+    4. Comparar os totais
     
 Gráficos
 
